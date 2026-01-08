@@ -45,3 +45,8 @@ Clone the repository:
 git clone https://github.com/MusyafaAnasrullah/myportofolio2.git
 ```
 Made with ❤️ by **Musyafa Anasrullah**
+
+## Credits
+Original project by: https://github.com/musyafaanasrullah/myportofolio2
+Modified and extended by: Musyafa Anasrullah
+
